@@ -19,7 +19,7 @@ django-timezone-field==5.0
 djangorestframework==3.13.1
 djangorestframework-datatables==0.7.0
 et-xmlfile==1.1.0
-flower==1.1.0
+flower==1.2.0
 gunicorn==20.1.0
 humanize==4.3.0
 importlib-metadata==4.12.0
